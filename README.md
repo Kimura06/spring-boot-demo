@@ -79,6 +79,6 @@ No database is used in this project.
 
 Java version 17 is required.
 
-Author
+Author: Velkhiev Ibragim
 
 Student project created as part of a learning assignment.
